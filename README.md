@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is Surajram.S , a student of Third year of the Department of ComputerScience and Engineering,SVCE.
+I am an aspiring Front End Web developer and a Front End App Developer.
+I love working with OpenCV too.
+
 <!--
 **Surajram1707/Surajram1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
