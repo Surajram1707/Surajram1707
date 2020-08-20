@@ -15,7 +15,9 @@ I love working with OpenCV too.
  
  
  📫 How to reach me: ... EmailId: surajram1707@gmail.com
-
+ 
+ 
+  💬 Ask me about ...  My Resume: https://surajram1707.github.io/My-Resume/
 <!--
 **Surajram1707/Surajram1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
