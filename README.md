@@ -8,7 +8,7 @@ I am an aspiring Front End Web developer and a Front End App Developer.
 
 I love working with OpenCV too.
 <b>
-
+<blockquote>
  🔭 I’m currently working on ... Front End WebDevelopment and OpenCV
  
  
@@ -21,7 +21,9 @@ I love working with OpenCV too.
   💬 Ask me about ...  My Resume: https://surajram1707.github.io/My-Resume/
   
   
-  ⚡ Fun fact: ...I like to cook , eat , code and execute.</b>
+  ⚡ Fun fact: ...I like to cook , eat , code and execute.
+  </bloackquote>
+  </b>
 <!--
 **Surajram1707/Surajram1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
