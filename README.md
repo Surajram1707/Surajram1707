@@ -22,7 +22,7 @@ I love working with OpenCV too.
   
   
   ⚡ Fun fact: ...I like to cook , eat , code and execute.
-  </bloackquote>
+  </blockquote>
   
   [![GitHub Surajram1707](https://img.shields.io/github/followers/Surajram1707?label=follow&style=social)](https://github.com/Surajram1707)
   </b>
