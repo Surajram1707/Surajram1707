@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-<font color="green"><h3>This is <strong>Surajram.S</strong> , a student of Third year of the Department of ComputerScience and Engineering,SVCE.</h3></font>
+<h3>This is <strong>Surajram.S</strong> , a student of Third year of the Department of ComputerScience and Engineering,SVCE.</h3>
 
 
 I am an aspiring Front End Web developer and a Front End App Developer.
 
 
 I love working with OpenCV too.
+<b>
 
  🔭 I’m currently working on ... Front End WebDevelopment and OpenCV
  
@@ -18,6 +19,9 @@ I love working with OpenCV too.
  
  
   💬 Ask me about ...  My Resume: https://surajram1707.github.io/My-Resume/
+  
+  
+  ⚡ Fun fact: ...I like to cook , eat , code and execute.</b>
 <!--
 **Surajram1707/Surajram1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
