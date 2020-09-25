@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 color="green">This is Surajram.S , a student of Third year of the Department of ComputerScience and Engineering,SVCE.</h1>
+<font color="green"><h3>This is <strong>Surajram.S</strong> , a student of Third year of the Department of ComputerScience and Engineering,SVCE.</h3></font>
 
 
 I am an aspiring Front End Web developer and a Front End App Developer.
