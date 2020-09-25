@@ -23,6 +23,8 @@ I love working with OpenCV too.
   
   ⚡ Fun fact: ...I like to cook , eat , code and execute.
   </bloackquote>
+  
+  [![GitHub Surajram1707](https://img.shields.io/github/followers/Surajram1707?label=follow&style=social)](https://github.com/Surajram1707)
   </b>
 <!--
 **Surajram1707/Surajram1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
