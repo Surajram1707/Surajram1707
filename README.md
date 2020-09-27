@@ -25,7 +25,11 @@ I love working with OpenCV too.
   
   
   ⚡ Fun fact: ...I like to cook , eat , code and execute.
+  
+  
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajram1707&layout=compact"/></p>
   </blockquote>
+  
   
   <h2 align="center">Profile Stats🎡</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Surajram1707&show_icons=true&theme=radical&line_height=35&count_private=true"/></p>
