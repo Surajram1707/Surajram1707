@@ -3,7 +3,7 @@
 <h3>This is <strong>Surajram.S</strong> , a student of Third year of the Department of ComputerScience and Engineering,SVCE.</h3>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=Surajram1707&color=brightgreen&label=Hellloooo!!!+You+are+viewer+number"/>
+ <img src="https://komarev.com/ghpvc/?username=Surajram1707&color=brightyellow&label=Hellloooo!!!+You+are+viewer+number"/>
  </p>
 
 I am an aspiring Front End Web developer and a Front End App Developer.
