@@ -36,10 +36,10 @@ I love working with OpenCV too.
   <hr><hr>
   
   <h2 align="center">Profile Stats🎡</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Surajram1707&show_icons=true&theme=radical&line_height=35&count_private=true"/></p>
-  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Surajram1707&show_icons=true&theme=radical&line_height=35&count_private=true"/>
+<hr><hr>  
   [![GitHub Surajram1707](https://img.shields.io/github/followers/Surajram1707?label=follow&style=social)](https://github.com/Surajram1707)
-  </b>
+ </p> </b>
 <!--
 **Surajram1707/Surajram1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
