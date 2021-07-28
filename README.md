@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>This is <strong>Surajram.S</strong> , a student of Third year of the Department of ComputerScience and Engineering,SVCE.</h3>
+<h3>This is <strong>Surajram.S</strong> , a student of Final year of the Department of ComputerScience and Engineering,SVCE.</h3>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Surajram1707&color=yellow&label=Hellloooo!!!+You+are+viewer+number"/>
